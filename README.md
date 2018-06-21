@@ -5,7 +5,7 @@ This is a small program I created in python to check whether a user is leaking t
 
 ---
 
-** How does it work **
+**How does it work**
 
 I am using two free web services. 
 [CheckMyTorrentIP](http://checkmytorrentip.upcoil.com) is a service that provides an magnet file for a user to download and extracts their IP address.
