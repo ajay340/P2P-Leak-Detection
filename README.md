@@ -1,4 +1,4 @@
-## VPN Torrent Detection
+## P2P Leak Detection
 ---
 
 This is a small program I created in python to check whether a user is leaking their real IP address while torrenting and being connected to their VPN.
